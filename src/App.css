@@ -1,0 +1,4 @@
+.product_image{
+    object-fit: contain;
+    height: 220px;
+}
